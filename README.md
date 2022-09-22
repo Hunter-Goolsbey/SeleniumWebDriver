@@ -3,10 +3,10 @@ Java files regarding Selenium web driver course - Udemy
 
 | Section | Title |
 | --- | --- |
-| 1 --------| Introduction |
+| 1 | Introduction |
 | 2 | Setup |
 | 3 | The Basics|
-| 4 |  |
+| 4 | Deep Dive Into Locators/Selectors |
 | 5 |  |
 | 6 |  |
 | 7 |  |
