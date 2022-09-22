@@ -1,7 +1,7 @@
 # SeleniumWebDriver
 Java files regarding Selenium web driver course - Udemy
 
-| Section # | Title |
+| Section | Title |
 | --- | --- |
 | 1 --------| Introduction |
 | 2 | Setup |
